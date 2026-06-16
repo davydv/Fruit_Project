@@ -1,0 +1,5 @@
+Fruit: Apple, Color: red
+Fruit: Banana, Color: yellow
+Citrus: Grapefruit, Color: yellow, Vitamin C: 2,131 g
+Citrus: Lemon, Color: yellow, Vitamin C: 0,953 g
+Citrus: Orange, Color: orange, Vitamin C: 1,745 g
